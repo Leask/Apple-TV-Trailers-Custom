@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atv><body><scroller id="missde.cn-index"><items>
+<collectionDivider alignment="left" accessibilityLabel=""><title><![CDATA[在线视频]]></title></collectionDivider>
+<grid id="1960144369" columnCount="5"><items><moviePoster id="line_0" accessibilityLabel="" featured="true" onSelect="atv.loadURL('http://4.appletv3.sinaapp.com/index.php?m=zhibo')" onPlay="atv.loadURL('http://4.appletv3.sinaapp.com/index.php?m=zhibo')">
+        <title></title>
+        <image><![CDATA[http://appletv.googlecode.com/svn/ico/tv.gif]]></image>
+        <defaultImage>resource://16X9.png</defaultImage>
+</moviePoster><moviePoster id="line_1" accessibilityLabel="" featured="true" onSelect="atv.loadURL('http://4.appletv3.sinaapp.com/index.php?m=site&amp;s=qiyi')" onPlay="atv.loadURL('http://4.appletv3.sinaapp.com/index.php?m=site&amp;s=qiyi')">
+        <title></title>
+        <image><![CDATA[http://appletv.googlecode.com/svn/ico/qiyi.gif]]></image>
+        <defaultImage>resource://16X9.png</defaultImage>
+</moviePoster><moviePoster id="line_2" accessibilityLabel="" featured="true" onSelect="atv.loadURL('http://4.appletv3.sinaapp.com/index.php?m=site&amp;s=yinyuetai')" onPlay="atv.loadURL('http://4.appletv3.sinaapp.com/index.php?m=site&amp;s=yinyuetai')">
+        <title></title>
+        <image><![CDATA[http://appletv.googlecode.com/svn/ico/yinyuetai.jpg]]></image>
+        <defaultImage>resource://16X9.png</defaultImage>
+</moviePoster></items></grid>
+<collectionDivider alignment="left" accessibilityLabel=""><title><![CDATA[其它资源]]></title></collectionDivider>
+<grid id="87600788" columnCount="5"><items><moviePoster id="line_0" accessibilityLabel="" featured="true" onSelect="atv.loadURL('http://180.153.225.136:8000/index.xml')" onPlay="atv.loadURL('http://180.153.225.136:8000/index.xml')">
+        <title></title>
+        <image><![CDATA[http://appletv.googlecode.com/svn/ico/tt1.gif]]></image>
+        <defaultImage>resource://16X9.png</defaultImage>
+</moviePoster><moviePoster id="line_1" accessibilityLabel="" featured="true" onSelect="atv.loadURL('http://210.129.145.150:8000/index.xml')" onPlay="atv.loadURL('http://210.129.145.150:8000/index.xml')">
+        <title></title>
+        <image><![CDATA[http://appletv.googlecode.com/svn/ico/tt2.gif]]></image>
+        <defaultImage>resource://16X9.png</defaultImage>
+</moviePoster></items></grid>
+<collectionDivider alignment="left" accessibilityLabel=""><title><![CDATA[测试资源]]></title></collectionDivider><grid id="1120404340" columnCount="5"><items><moviePoster id="line_0" accessibilityLabel="" featured="true" onSelect="atv.loadURL('http://192.168.1.106/index.php')" onPlay="atv.loadURL('http://192.168.1.106/index.php')">
+        <title></title>
+        <image><![CDATA[http://appletv.googlecode.com/svn/ico/ceshi.gif]]></image>
+        <defaultImage>resource://16X9.png</defaultImage>
+</moviePoster><moviePoster id="line_1" accessibilityLabel="" featured="true" onSelect="atv.loadURL('http://4.appletv3.sinaapp.com/index.php')" onPlay="atv.loadURL('http://4.appletv3.sinaapp.com/index.php')">
+        <title></title>
+        <image><![CDATA[http://appletv.googlecode.com/svn/ico/ceshi2.gif]]></image>
+        <defaultImage>resource://16X9.png</defaultImage>
+</moviePoster></items></grid></items></scroller></body></atv>
